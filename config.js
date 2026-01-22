@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "How are you today?",                                    // First interaction
-            yesBtn: "Good",                                             // Text for "Yes" button
-            noBtn: "Bad",                                               // Text for "No" button
-            secretAnswer: "I'm fantastic"           // Secret hover message
+            text: "Do you like me?",                                    // First interaction
+            yesBtn: "Yes",                                             // Text for "Yes" button
+            noBtn: "No",                                               // Text for "No" 
+            secretAnswer: "Very much"           // Secret hover message
         },
         second: {
             text: "How much do you like me?",                          // For the love meter
